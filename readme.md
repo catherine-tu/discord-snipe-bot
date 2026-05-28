@@ -22,10 +22,13 @@ All data is stored in **Google Sheets**.
 
 Your sheet should look like this:
 
-| Name | Sniped | Got Sniped |
-| ---- | ------ | ---------- |
-| Cat  | 5      | 2          |
-| Alex | 3      | 7          |
+| Name  | Sniped | Got Sniped |
+| ----- | ------ | ---------- |
+| Cat   | 5      | 2          |
+| Alex  | 3      | 7          |
+| Chris | 0      | 5          |
+| Sean  | 1      | 3          |
+| Laura | 2      | 2          |
 
 - Column A → Name (mapped from Discord ID)
 - Column B → Snipes given
