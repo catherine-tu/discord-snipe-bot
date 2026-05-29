@@ -41,6 +41,6 @@ Your sheet should look like this:
 ### 1. Clone the project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/catherine-tu/discord-snipe-bot
 cd discord-snipe-bot
 ```
