@@ -9,7 +9,7 @@ A simple Discord bot that tracks “snipes” between members using Google Sheet
 - `!sniped @user` → records a snipe event
   - +1 to sender’s **snipes**
   - +1 to target’s **got sniped**
-- `!stats [@user]` → shows personal stats
+- `!stats @user` → shows personal stats
 - `!revoke @user snipe` → removes a snipe
 - `!revoke @user gotsniped` → removes a “got sniped”
 - `!leaderboard` → shows top snipers and most-sniped users
